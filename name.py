@@ -1,2 +1,3 @@
 vishnu=("hello ")
-print(3*vishnu)
+i=int(input("enter a number")
+print(i*vishnu)
